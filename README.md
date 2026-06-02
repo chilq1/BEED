@@ -1,4 +1,4 @@
-Bearing Electrical Erosion Dataset (BEED)
+
 The Bearing Electrical Erosion Dataset (BEED) was constructed using vibration signals collected from the same bearing specimen under different bearing electrical erosion states.
 The BEED contains seven health states labeled from 0 to 6, including one normal state and six representative bearing electrical erosion states. For each health state, vibration signals were collected at four rotational speeds: 2000, 3000, 4000, and 5000 r/min. The signals were sampled at 20 kHz, and each vibration record lasted 5 s.
 For the purposes of academic review and reproducibility, a subset of the dataset is publicly available in this repository. The complete dataset will be made publicly available after the relevant manuscript, entitled DRF-AHoMM: A Dual-Modal Adaptive Transfer Framework for Cross-Speed Bearing Electrical Erosion Fault Diagnosis, is officially accepted for publication.
